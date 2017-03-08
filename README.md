@@ -4,6 +4,7 @@
   "axios": "^0.15.3",
   "mobx": "^3.1.5",
   "mobx-react": "^4.1.2",
+  "pui-css-hoverable": "^7.5.4",
   "pui-react-alerts": "^7.5.4",
   "pui-react-back-to-top": "^7.5.4",
   "pui-react-buttons": "^7.5.4",
